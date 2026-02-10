@@ -14,6 +14,9 @@ _Uses an experimental zmk feature to [enable mouse keys](https://github.com/zmkf
 * 2x 2U DSA blank black keycaps [aliexpress](https://es.aliexpress.com/item/32895127912.html?spm=a2g0o.order_list.order_list_main.205.4bb8194dmCyLto&gatewayAdapt=glo2esp)
 * No OLEDs
 
+trigger build
+
+
 ## Others
 * 5x Adhesive-backed lead tape [aliexpress](https://es.aliexpress.com/item/32825175785.html)
 * 4x Aluminium standoffs M2 10mm [aliexpress](https://es.aliexpress.com/item/1005001711916538.html?spm=a2g0o.order_list.order_list_main.249.43b2194dOWseQE&gatewayAdapt=glo2esp)
