@@ -1,4 +1,4 @@
-# Zmk config for Lily58
+# Zmk config for Lily58 
 
  This is my personal configuration for the Lily58 split keyboard powered by two nice!nanos
  
