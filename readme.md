@@ -15,7 +15,7 @@ _Uses an experimental zmk feature to [enable mouse keys](https://github.com/zmkf
 * No OLEDs
 
 trigger build
-
+ 
 
 ## Others
 * 5x Adhesive-backed lead tape [aliexpress](https://es.aliexpress.com/item/32825175785.html)
